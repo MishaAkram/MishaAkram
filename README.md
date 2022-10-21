@@ -6,3 +6,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MishaAkram&theme=dracula&hide_border=true" />
   </a>
 </p>
+<p>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAkram&layout=compact&theme=dracula" />
+</p>
