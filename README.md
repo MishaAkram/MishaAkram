@@ -11,4 +11,4 @@
 </p>
 
 ## My Badges
-[![@mishaakram's Holopin board](https://holopin.me/mishaakram)]https://holopin.io/@mishaakram)
+[![@mishaakram's Holopin board](https://holopin.me/mishaakram)](https://holopin.io/@mishaakram)
