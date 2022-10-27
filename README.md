@@ -9,5 +9,6 @@
 <p>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishaAkram&layout=compact&theme=dracula&hide_border=true" />
 </p>
+
 ## My Badges
-[![@mishaakram's Holopin board](https://holopin.me/mishaakram)](https://holopin.io/@mishaakram)
+[![@mishaakram's Holopin board](https://holopin.me/mishaakram)]https://holopin.io/@mishaakram)
