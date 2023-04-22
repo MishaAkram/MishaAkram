@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my Github Account!
-![](https://komarev.com/ghpvc/?username=MishaAkram&style=plastic)
+
 <p align="center">
   <a href="https://github.com/MishaAkram">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MishaAkram&show_icons=true&theme=dracula&hide_border=true&icon_color=f28a00&count_private=true" />
